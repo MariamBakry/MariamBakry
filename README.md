@@ -18,6 +18,9 @@
 </div>  
   
 
+.  
+  
+
 <br/>  
 
 
@@ -65,11 +68,6 @@
 
 
 
-### DevOps  
-<div align="center">  
-  
-</div>
-
 </td></tr></table>  
 
 <br/>  
@@ -114,7 +112,7 @@
 
 <br/>  
 
-<div align="center"></div>
+
 <br />
 
 ----
