@@ -4,10 +4,10 @@
 - 🔭 A passionate Full-Stack developer from Egypt  
   
 
-- 🌱 I'm currently an open source trainee at ITI  
+- 🌱 I'm currently seeking to join an outstanding development team 
   
 
-- ❤️ I love chocolate and watching Anime  
+- ❤️ I love drawing and watching Anime  
   
 
 -  📫 How to reach me: mariamelbakryy@gmail.com  
